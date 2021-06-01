@@ -1,5 +1,6 @@
 # Ontario Fall CS Delivery
-Keeping track of Fall 2021 course delivery in computer science departments. Make a pull request if there's something that needs to be updated.
+Keeping track of Fall 2021 course delivery in computer science departments.
+Make a pull request if there's something that needs to be updated.
 
 |                                  | Timetable Link                                                                                                                | Disposition                  |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------|
