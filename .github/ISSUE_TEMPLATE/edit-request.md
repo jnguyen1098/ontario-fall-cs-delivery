@@ -8,8 +8,7 @@ assignees: jnguyen1098
 ---
 
 **What needs to be changed?**
-\<insert stuff here\>
+...
 
-**Sources**
-Steps to reproduce the behavior:
-\<if applicable\>
+**References (if applicable)**
+...
