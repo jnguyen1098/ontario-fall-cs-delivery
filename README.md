@@ -1,6 +1,6 @@
 # Ontario Fall CS Delivery
 
-Make a pull request if there's something that needs to be updated.
+Open an [issue](https://github.com/jnguyen1098/ontario-fall-cs-delivery/issues/new?assignees=jnguyen1098&labels=documentation&template=edit-request.md&title=) or [pull request](https://github.com/jnguyen1098/ontario-fall-cs-delivery/pulls) so I can update the document, or talk in the [forum](https://github.com/jnguyen1098/ontario-fall-cs-delivery/discussions).
 
 |                                  | Timetable Link                                                                                                                | Disposition                  |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------|
